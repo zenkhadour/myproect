@@ -2,3 +2,10 @@ h1{
     color: rgb(0, 157, 255);
     background-color: rgb(62, 109, 109);
 }
+h2{
+    color: burlywood;
+    background-color: chocolate;
+}
+body{
+    background-color: cadetblue;
+}
